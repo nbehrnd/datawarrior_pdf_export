@@ -1,0 +1,199 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1589187829826">
+<rowcount="123">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="Structure">
+<columnProperty="specialType	idcode">
+<columnProperty="idColumn	Molecule Name">
+<columnName="idcoordinates2D">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	idcoordinates2D">
+<columnName="FragFp">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+</column properties>
+idcoordinates2D	FragFp	Structure	Molecule Name	Druglikeness	Mutagenic	Tumorigenic	Reproductive Effective	Irritant	Nasty Functions
+	}vjUUzchQxTzojKDCj9W7TOVhEekGtVOqllkIXp8Ua4J8FWd5MlVhW1Aa4vJBF01N3JKADW0FV	ekTvF@@DnaY]SPDLAGIlbbRbbRvabbTTrJbRvTTRbrtlJFjzAayUuMZjjjfBBhjB@``XjDFBb`@	ATACAND	-7.1437	none	none	none	none	
+	=xUzrpzxzjvQEjBbUzvxi7b8C1oKMYOc7YP_F8DqaA1XKLnVX_84@oV3K0ZeF10@Z0o481V303k28514Vk	elRZEH@LcghTXDLNAIO@hd`OCIILdddeEED\hhhhflkg`XVjjjjYjjj`PJHEJ@@	TRUVADA	-25.362	none	none	none	none	
+	;j;irzrxUzxtjCxaLdNd_vyKPko_aIs0O3BMNca8gY6Z6XuFPVVK0l0B_GF0ZW0VW0J404V0VX8c0YV0kV	fncXP@DTxIVPF}GHheEDjddeMMF\diiffjjZjjBR@@	VALTREX	-20.843	none	none	none	high	
+	;j;irzy;xsjbxiUbrCzvhzmcZpnVV8sqSm8ZgZkaLEnJ09m1V16f0Z0VBg4F8Z&V0V03#c0J0	el\XJ@@B`DE@elbbRRRbRRbVbrRTURRpHZjjjjZjjfjjh@@	XENICAL	-15.657	none	none	none	none	
+	;j;irUvzvzxljjxuSbrhzP:uwJKzlp@upKDRDjwx_TSXoPCmG8l6n0gqkREVJ8o!4G2RFV@0@c!a0I0	fmgpr@NZKYvZmz@HrQQQQQKQDqQQSSdmFjjZjZjYjjdPdh@	MERREM	6.4914	none	none	none	none	
+	:xjxyyirjy:fxsjjziUjrCzvxuPwLpIuGSvzOmggzwxZPTxoXUek8KLW2c116haIcJdQ5lJ4G0FZ9080201V	el^PFD@AJfeco`HazHrJQRJJJHkFIJ[JZ[SISsRqrIHjEFjjjfZjfjYjZjd@@	NASONEX	3.0117	low	high	high	none	
+	:pjxyqerjuvzexkbfziSjr5zvxuPwJpKuGSuxGLggUoSZPRtoVUVG81L1285W672kcJcQ5lFJFV8490202010	eolPF@@@KJniclbbRfbTLVRbTrTvVhXTL|BRJzFZVjjjjjjZjjjAb@@	PULMICORT	1.6963	none	none	none	none	
+	;j;irzy;xsijhyTjrCzlxQuwopzll@mxSq4gMwxaTGpoe8XlVkLe4RVFL9VZ8J184F4RW0u0X!1V0k0	ffmPP@CN@aQTfVUyWeVeijZjjjjZ`I@@	TAMIFLU	-1.4998	none	none	none	none	
+	:UfzvzirSyztytsCjUuUfrCUOhjeoFGytlU8sGXwBOghZTUiJ05Fl8k2f680FTdXo840IGcFN1!V0V20V0F0	fmoP`@DMAWHhdiheBeMDcLiJLUiwhyZfjjjjijjj`r@@	PROSCAR	2.4066	none	none	none	none	
+	:xjxyyirjy:fxsjjziUjrCztxyPwJpIuGSuzSywgzwxZPTzoXEkF81LW2c11Th6FcJdQKlF4G0kZ98202810	edZPJB@LFOFhP@bbPzdKiCIEEiLiEEDfhmDYDd\iXdULm|CSUUUSUUUURsUPCP@	FLOVENT	4.5242	none	none	none	none	
+	?yzUzxvzxvjrzmzfvCjUjULooSzjxUTbMjwLzqdXTyyJqEnOex6hHro1BilVbpo2LWF5Kk8VNcVVa0I0	eb^ZNH@FEHnh]CKOFk`P@cIEHhbeDkMDhhehmDXU`qqIL]}CUUULsU@pTMMUD@@@	ZOSYN	12.176	none	none	none	none	limit! oxal-diamide
+	;j:UirKzxvzttEjCmUfPhaAzU@koCznx@AEFjN@ryhYTXLau8ucVpLs0s_GNelW0oW84K4510N28881b0nV	fegiQ@LBSV^g^BT@PLHrQQJIIIJZNISIDyQgQuUUSKLuKTp@@	OMNICEF	12.271	none	none	none	none	
+	;j;irU:vzxtjjxuUjzhzQzjusoSznx@vfFfRDrihbTjqau9PcVo2z4u7GPhlp@Zl8FK401F@X0c8160Y0	fbupR@FRchwd`BLdTRbRTRQVcAJmSUUMKUT@@	PRIMAXIN	5.3361	none	none	none	none	
+	;vUlOM9k7wVIAACF1VX9@P0B0J1!2Z6V040821HF!F1V60JV0BF4B8!81V010502%2F#202$	fdiP`@LN@cHheEEehXihsUPPEUDKD@@	EXELON	1.9626	none	none	none	none	
+	:xjxyyirjyjzfxsijzDUjp5UtpePwFpIsFSsuSmggOoS4@Txo870k8FHV080F6d6#8Q1VF0GVVV3$F!	emhPL@@@FelbbRfbbeRfbbeRhXTtTL|BRJJjFfZZjjjjjjfjj`xP@	YASMIN	-2.8162	none	none	high	none	
+	[r{UjuUyv;_Jzj:MxENIcu:bkxayayIvgRoNTJeEIyCWW36rE_JM4HFH010VH201F	emXrF@@DKOjPCOJcglbbbbbRVTfTrRQQRfbRrbRXdDTLBRrVvqIeUZiijBhJ``ijjjjbB`@@	CAMPTOSAR	-0.35552	none	none	none	none	
+	=vxztwEwbqAvUZ8VXAH8bC9MWVh247W0272cH1kF0FFY69o41VFCBN8W01@HFB!4!41YXc8I01!V0FF	fi{qb@BQKcc`AFRJJEZIKIIQSIDhZwQtuL@EUP@PPQP@	AVANDIA	7.5038	none	none	none	none	
+	;j:UirrzxzrxdjjCqMfQCaftU@kZhjHh@AEKrRDru1XTcLmk4ecVW4c0o5WNdGV0oW80F40Wk@080826030	dg~J@D@Uv|bbfbRfNTpmUTmU@@	AUGMENTIN	2.8065	none	none	none	none	
+	zrzhnhUBnpKSM81O@C84282dX3H080ZW2HG01@0BF068Z@02Fa!e!4#801F0l1#8FJ01V0F$VY0FV	fjuIbBNF\FfR`B@rWdiVUWeVxTjjZjfjfP@@	ZANTAC	-0.50349	none	none	none	none	
+	;vznSptF5wVJACEw0WXOPcV9FG93404MKV502c0PkO6OkV0Xx0dZ4KZFVc5IF0d11Vd0V4d042F2!92Y0GV	fnspQ@L^sAEg@BDaFRRFJJYIQWQI\dXIZkUAHMEMTH@@	MOBIC	4.9068	none	none	none	none	polar activated DB; limit! thiazol-2-ylamine
+	zvurBrsr8e2o0pEZn8VVVN0H108KF0d2V62V546031k!HK!@0V10l6108Z98XF!FV!8!X684F011G64Y0	fas`P`@djwhJpUXflKVYEEDeDhTeEEifR}fBBbBBhf`aZ`@	SYNTHROID	-10.339	none	none	none	none	
+	;hvxrirMvrvixG3_7mCXvVD2bRXo0N@2452V07w#1dFk8!30N!4460H0B@1!4k10V25022%3410	fliaq@CPQa`iJAxT|LddlbduTVRZjfjjj@@	BONIVA	-10.533	none	none	none	none	
+	;hdxoib6AoVax01ZbX4XIVZ03RXk#205#2J#1dFV8!20N!4#F08410V4V10V0402%134W0	dgnNPKaLXYTOBoCIIKHiMTuUMU@@	FOSAMAX	-11.876	none	none	high	none	
+	=jzShzoz5GEqiTsSVNHdpxNVNf412HFXU8iJFcq9aBX40e98fV0Jk10h1II2V199V0kKB201V8L090Y0F0	fikPpBHA@aNZmaJNrJZJIJFJJJIRdTgAZ@`ifiijH@@	ADALAT	-1.5582	none	none	none	none	aromatic nitro
+	zxznHYs59V4L042BH801VN2m!F0c2020HI050V030k8610V028V82F0kF!9NG!1020Z068#F2#lW0k0	ff}i@@IFmxHLdTrTraRTVRSNRUP@UMSUTH@@	ZELNORM	-2.873	none	none	none	none	
+	:UdntU4l55RYJ1ODC0V28Hg20F180416HG0110cF!8490X0X80c!J0F085GFWW1!18FJV1!F2#1W0kV	fbeXc@LDXXLXH@DRBOAFRRGSIIQIYQweijjejj@@	PEPCID	2.1951	high	high	none	none	
+	=xzyzpxxUS9UUUPpABPdZAHMgYhd@rSLAA85NQq@aIkWNYsHzXZo0F4u3IF3p12XW3oK50k0F2Vk88Y0GV	ei[VF@@C@bZ^QPDLAEBlbbRRrfbbbVdReRvTTRbrHh\BNnqYyEZjjZZjjhHBBAbeA@@@	BENICAR	-5.0226	none	none	none	none	
+	?y>xvjjxuzjzhzQzUywoKjrl2vrQjNByRhIRjqjT9s_ex4z4cWGTf550VJ8JR7UK8PVVc0XX0GV	edzvJD@JILgn]VAKEfP@atHrQQ[JYQQYQQIIZJFIIQZNKQIZXTMSPtvntsSUUPTECAPUCURuTD@@@	KALETRA	-7.147	none	none	none	none	
+	]UxzQ:vTUsvyhz9rNT7hcCRDnx2xva1NUs@JJmf6yN9hX6wN74fIpmBW532p!B12F0202k!a8IV	eiSTJH@AIaeh^QPICHhdlhhhdheDdhXcmEDlmJFEKNcbVX@JZj`j`Zb`hHXP@@@	LIPITOR	4.4511	none	none	high	none	
+	<xyq:EuzvAham:dtjqMMUouTg253VIKswJDlNuoJZQJ8cV30W28JG2V!2!2473T!G$V2@!6F3F	ei[XLD@FLRVPH`hHrJIJYJEJIJFIIJQPiQQJRcbQRII[YFf@@@f@BjjjZjYj@h@@	SINGULAIR	-0.16428	none	none	none	none	
+	zrUtz9QOUJCFOF3MFO0G1NeHV02252980@vV50V02GV20FWV010V527J0JF0WBWFd8H!Z04%20JW0V0FF	ejY^H@@DGLbjgdPDfVYU^uVyU[{WTlL|fnv^qIZ`@@Hj`hJbB@@`@@	GLEEVEC	8.6128	none	none	none	none	
+	:xzxyyyzjyDxdpXiExDhjpBnlZXTR0lFk08kxEk4ZOFF48R18240o(k2W(F$V02#2010	eo`PJ@@@DOLflbbRbJRTTTJrfRbRBbn^ZjjZjjjj`@`@@	XALATAN	-14.281	none	none	none	none	
+	=jzS:ozUGCyiEsRXNH9pxNVNfaW2HG2U8DJNcq8Z424Fe98fVVJk10x1GH2V399V0FK42V1k8H091V0k0	fcwQR@G[CGIZ`bLbbbRabbbbTvJVsNF]@PTsTtuUTTJP@	NORVASC	-7.7862	none	none	none	none	
+	zrzxzhOMSk7w5IAEUN0WHN@u4CF49Y904LOVCBX01OV96lVV2XK0S24J8FWd17l0dW1AX4e4B#F3FK1@b0IV	ehZVL@@FMCko`PDKLbfbbTTrJbRvTTRbrDLdtJjv^~AZBBhjB@``XhPP@@	BLOPRESS	-0.17075	none	none	none	none	
+	?yzUzyvzCj:xlOAQgbOvMqndCf7x2QD4YRIYD7MghJIH0SyZw4O4qH28Vl12mF0V0141FFX0k08b0IV	e`TZL@@BMcgo`DELbfbbbbjbRRJbbTVRQRuswsUUSTDDPPLTCA`P@@	DIOVAN	-4.2218	none	none	none	none	
+	zrzxvdUOzpxlUNAU3Q0GANeVa2H2BYVc0uOX70VC8P0f6FV203GG806J0JFNW2l3l1H2!V481k!240n02010	fmopb@NNKuX@cIEEEDhmdYdlddnJeXwleh@``HjjjiB@@	SEROQUEL	2.458	none	none	none	low	
+	:Uvzv;S:vyvvUzRvz@yhzAQjhVSS:x@8THhPIqeZdaYmWw0pX6oN8BY61NlWg!k8GNd842FF0G2VW0F0	edRRJH@LIJihDAAc`@cIIBhheehddleihhleiXdU\|mPLDUUUSTuTR@@@	AMARYL	9.6574	none	none	none	none	
+	;xzdzSUrxhUR@zTAVFfscP7a21hYA@8PiV71X12dkY!1Y0@GW10GBd4w3fCYH0@3940840W@50107WFV0F0	egh\DD@FKAdc`H`bHrJJJYPiYIIJIJYJ\BFV]S[WPQAUUUPAELQ@@@	ABILIFY	4.0343	none	none	none	none	
+	zxzpnVOS1m4R502DDN0W2N2sVVF0914046GV58X80FV8691V0Y5Vd!J8FV11bW0V1122!48!302!G0V0Fk	fi{qb@BTeCOPAFRSQIJIIQIIiI\DyHXmMT@A@UU@PAP@	ACIPHEX	-2.2766	none	none	none	none	
+	:vx8oFq06AoVXC03V3V0AIV!1L2k!46050422J0kF1tNV80421R!4F0VF0801!4V30V040@&341F	fhqaq@GPQa`iJAxT|LddlbdubR|EjjZ`@@@@	ACTONEL	-10.644	none	none	none	none	
+	=UryUUvmQCxnlGrsdic0wLiqq4988DBJZ043V1F20k0o8902402!6S6202F0Fq0kG206D!1NF0V06030	ejQXB@@H`DKAlbfdTJVTrRbRrdtTRRVTtjZAqQIZj@Bjjjjh@@@HHCB@@	ALLEGRA	4.8896	none	none	none	none	
+	:UvzdUBzF5xOROdSS8n29@dg9H18Z18BHx2C9!8@kBZ1VV0Xs0TX0oFk0e51F5W102W!42#F2!8$V	fnsq@@D\tCHhhcEEDmDdciZ]DmVjijiA`I`@@	AMBIEN	4.3181	none	none	high	none	
+	;vzfzOzxtnOBArGQFOdtjHMF@XgY9@8NUV1O!AGtY6J1B0P0V1XMPW6RX@82F9F@084V@0X844080VN$	fca`@B`M{HhhhedeDdebeDdQdmIJo[PTDUUUT@DQCE@@	ARICEPT	5.6409	none	none	none	none	
+	vTPI2I9k8F5k!911NHVV82m040k%6FF1#1Nk84GGV02F01!40F0V$11!XG%80@02!1V0V	ff}h@@@AbfnQJQPiQZQHsJRbuzh@JjneH@@	ARIMIDEX	-4.1591	none	high	low	none	
+	:UvzvzyzS:QydjSUTtUAEdrATrgYSBgMxM9@F1cU_iapadTnN6S24x0N4XnI80Wp@Xk1V9F#F20k08W0FV	e`RVH@@DFMcgo`LbbbdRrRaRRJbbTVQCFabQRuswsUUUTDDPPLTpH@@	AVAPRO	-3.1849	none	none	none	none	
+	[U;v;mfpvqQCLzLQdznS@dvTeM0rY3ElOEF7b4vQZ1DKyt3wEvRnIcC19sZcT4@8p51JbG4aNI0	ekh\BH@BODi@mc`IAIfVYUVWm^YaPrrHkhZYZBBhjijjjfIh@@	AVELOX	1.5957	none	none	none	none	twice activated DB
+	zjbDvUbeLUu3uyoFVXrPSa_4NF_dmRkJtd0Ukk10Z480O24K8!H01cV226F0V4024V#180N!20V#X0G0	fdiap@M@hJQ`qrJQQKQEZI\UUUUUUT@@	BASEN	-2.624	none	none	none	none	
+	>Uzrrzxzyv:jBqUzfQijjUCWoDBtiXA6I_06jn0m1@r7nllZmABRkns082FV21#K11X167Z@mG!VF	ehZZJ@@DCDln`FMKgdfYeU{Ug^]UVPsRrHih[XyjjjhH@@`@jj@`pH@@	CARDURA	7.1196	none	none	none	none	
+	<jrOzdFaw1qAiURPW2CFuVB8p12h043mK4BXB39VN0fGVD1XX0aZK8!V0EV!s582Y06t!204Vb08XcG0	fkoPR`OG`aS`A@YB\`nPwHYIHXdeHcMmDeLiEJuVkPPUCT@EUXPyP@	CASODEX	-11.827	none	none	low	none	
+	zTPn2I9l8F5k0FA1GN2W082V04FF109!LF458V82Pk84Ok!2N2C24J0F0c14kGW942VY04c!81GFF0118VV	fegp``LJuA@@cL`VPkHYIIXdlheDiiDkaRm{huh@JfXJ`H`@@	CELEBREX	-8.1085	none	none	none	none	
+	=hzS:xUU96xTUcSfN@Q3YH08Ade0PQV5@BK3kmf64W2F61V5XKHl0OF9@2Fw12024cH4Wc4o02FbN2010	eohXN@@I`DNKJfgdfVyyW^]mVUHXdTn^Z``JjZijjjb@@@	CELLCEPT	-0.19574	none	none	none	none	
+	>tSOT5wWKEzm8WlXN8H5JN1OYC8VPTVM0aX3Ak96F5V0eOV1@5Jt1sEWRnIc919cZVL428K11J7W0aNI0	fa{qb@BVByoPRFQQQJIIIQZXqQdcA}DmXHJJijjfI`@@	CIPRO	2.0491	none	none	none	none	twice activated DB
+	vxUnIYlGdN0@0404F80lV80HF0F0c330BPH048!10k1601V0cc012!lHN8102!2F210V2!8%18V0FF	ffsPB@KUADILkZrljoQbcQKfl@ETqPTPD@@	CLARINEX	-0.6127	none	none	none	none	
+	=fzUxtzjM78CSCBlmA8QoAF4cYI8DPy0B@N110l3a01V2cu0IX!lPN@70@!2F210V2!8%d@#F	fmoPb@KUzLDQdTRTrTRTRRVJfUFJMDnZp@USEAQSTA@@@	CLARITIN	-4.251	none	none	none	none	
+	;UHUGn9F0kVLs6FNHkkRVL640F02dHg52L1#11F80X1!241410e!9F0@#VZ0202X4V401FV240X0G0	fhqa`@C@DiIfU~uigHBBjjhaH`@	COMBIVENT	8.0069	none	none	none	none	
+	zrzhzxUirpzpzutO3j5aUfvZi0rD@o0o7mt83_1iNDWsCWNu02PS@90J0R0c50JEWW0JV!J2FFVN28!Y20W0	foAqb@NZ]ab`ABTsoLbakUUULmP@@	COMBIVIR	-2.115	none	none	high	none	
+	?y:uj:hmhbxwp8JCKydjqsF5jj02JFBHNVF0toL_28Z$V01J4402!k95k0H802J8e8IV20V0F0	fhi``@I@PdrwLjn[s`mUAPTQ@@@	CONCERTA	-2.515	none	none	none	none	
+	;UvUUvUmaGpym@mG4JLhX4cV!50tmc112!202G0F02!512F45NV801F#F08&4V2020VG!X0G0	fn}`P@M@D{NRJIIQEIJHiJ\UPPTUUUUDJD@@	CONCOR	-4.5181	none	none	none	high	
+	xvurBrkr8@2o0pCVn0VVV8!108KF0d2V4#46!1k!HJ!8!10V#8Z!2$V%X480F010160Y0	dknL@BACR[me]]Zj@BHp`@	COPAXONE	-11.045	none	none	none	none	
+	;UvUUvUnq1UiXDX94GLx0HVXZ0C3k68IFV50X$G6210433k04F680VG94W!1F2!cJ!X160Z4K4X0GV	eghTB@@MO@IJildTRbTTTIRVrTTRPafedVVuuADU@PQTDDDDEA@@	COREG	3.4008	none	none	none	none	
+	;jvzUirrzxzytOjETJU_uhafq28VoxevOLA30Ck@DTV3!JaHNu1co0FFF10FAl1X!8Jl!V022V0X0Y0GV	fjmIb@HHXFeo@BLdRRRbRTQrdpPwjVjjjjjjBb@@	COSOPT	9.3969	none	none	none	none	
+	;xvdzRzKxyQJ9EUU8lA8@dZ9H3gYj88LS2A@018Qa@6GVWFYN0S2Zo0F4u33F0l322V0VK4#F20F08Y0GV	eghVHH@DJIecki@HaIeeUvU}fV]HhbRFvNniZjjB@``XjA@@@	COZAAR	-3.471	none	none	none	none	
+	:yziyxpfD_qWWjWITkd0hMkr40F989!2F0q948HRFNLCGc0FFc42044G#cX8084@X4V0Z!2G3HH!783F	ehT\FD@LNAHDIco`P@`ZPrRPsSIQJIQIGIPjYQPpiiZh@bBhDjji`@@@	CRESTOR	3.4539	none	none	none	none	
+	?y>xvjbxTzfzCzvjzqwoxvWh@@qUnRazql6DUqSHCmxXW6e4rm0DgG4@kF!93NWkVV2c80a0I0	eg`TJ@@BK@DILblbfbbTRtVLTVRTrW@agausUUMUUSUP@T@@@	DELIX	-3.8863	none	none	none	none	
+	;QvQlGUR9VWJ8MH8GFVNdL640Vc71@c2D27V205@FX!1!@110N2eV6433022!H8V!20l8G08F2502010	fasa@@@`RYe[Yu^yf\}F@`jBBJj`aR`@	DETROL	2.8073	none	none	none	none	
+	;UfUSvAJbk1asCIPHVXx1mg42k8bd047LK313!CFN4Y2kBHM24Z14WFA0F2!FW49V120M0451PVW04381V	ffcYA@CV\GMQ@dMRFQQQIRHkQQIIgDyKV@`jjjeTh@@	DIFLUCAN	3.0382	none	none	none	none	
+	:UvzvzxzSxfvwvvCY9mj9s5wB7A_Z0OhDg242VY82G20F6VV1J82B2Z8DJ224ZZ!31k014204F01F0V%	fi{Q@@DAAdTTRbfRRqRTRQoNCt[UPTEET@A@@@	DURAGESIC	8.7647	none	none	none	none	
+	;UfUzvEjvY9izIk3rc_C_0JJXXasOH4C4KVk1221F0NkH40N4204F!6@0H02F0Z0502380X483N0V202010	fbu``@G@teMkltzrs`\t@EUUUQPEP@	EFFEXOR	-0.32546	none	none	none	none	
+	;UfQxv7T7mWJvQYcpf2snka42ttd!VHRV791X0@k86k5f02GW1@1BBLVX3Fm3110@Z0V4818F03F201XFlk	fjcY@@NJMxLPYDheeEDehbiQfcN}dmTuPHEUTRDIb@@	EPZICOM	-1.2074	none	none	none	none	
+	vTPI2I9m8F5kVF91GN1VV8HV040F2090V6F05!X0Pk84lJV02F058044F8V$11J4V02!40N1HFF!1V0V	ffch@@@RtFnQJIKJJJIIGIgOASg`@jhE@l`@@	FEMARA	-1.1472	none	high	none	none	
+	;UvOztUs4GjJIDHt0nXN0q8!1C1d2hJHX112831F96Nl!@5V!I290cO0PHFV1!64VFcXa9BF4!1W0k0	fcwQR@LN`cbV`BLddlTRRJbrRbbRtmCVmAAEUUAADDKD@@	FLOMAX	5.7098	none	none	none	none	
+	:UtzdUSzJxtQRAzUQ0lfOema0H3CYA8BTzX71VCAQGf6GWX03KW8Z7JWJN2WDlIWA224V0L01B40H44l4W0FV	ec`RHD@IMDbo@HahHRYeUWe_Y[UcaPrIIki[Z@`jjfjZ@@j@@@	GEODON	8.1553	none	none	none	none	
+	:UvIftKdN1N0427TN0WVO2m20F0c3904LMV50X83GF1691V0@50404Rl2013BYF01123Z0LV1830F4F!W0FV	fbupb@LVcA@@cIIBmDeLhThkUgKU@ASUQ@@@	IMITREX	-0.57433	none	high	none	none	
+	:UfzvzarSjwfo9dEbCF92PB59dMVk09f1h2260YN2X2!61!F4080V484XV08V142kF&k%1!V0	dcMD@DTIrJJIPqTsUUMTEP@	KEPPRA	5.0314	none	none	none	high	
+	FF@F#18&408010N0H%22#F01#1#2)21!F(3020484%2#1!VF	f`qhA@IZM[pH`dQdTTTraTQxHshH`@H`@@	LAMICTAL	-1.6419	none	none	none	none	
+	uyHIP1GF8F1F!150NHF08@2$8208!1F08!1F080F(V+1$F801+V!	ff}`@@@IToKJsujwhuTBA@YU@@@	LAMISIL	-3.4681	none	high	none	none	
+	>xpzThyWphYPDdtVhUBrOFIccC9gIS2z96XFEkyJ4N90uN8de6wF3Bf7lHdW532W80J430FFV21!6830	eg`XBH@CFick`ICHhdlhhhddmEYeLiPphYxe@ASMMMUUTqP@@	LESCOL	0.18145	none	none	none	none	
+	>tzSy7w_IEzmcWlXOcH7oN0Onh@VPPVM4aX3AkODF1X4eOW1DpTt5sCdRnIs91OcZcL43eK51J7W46830	fewpR@B^SHHy`dDfYYeUYwWfJlgvXe``jJjZjibfFR@@	LEVAQUIN	5.7723	none	none	none	none	twice activated DB
+	;xztzxzphxzovUUz8nEOuvi9IQhYBPTTzXAA0hQQbv6OnYVYSWwaLrEJoc_QJHW92XaBWMd1@6R24FZ4W0FV	edZVBH@LKHdfkhDLa`@cIICEDdeieDdeheeMliXYxuL]\mTEAQMUSTmUE@@@	LEVITRA	5.4018	none	none	none	none	
+	;UvUrtUflnxBw7FtmDVh2HgZ2sgb9V0H7KZ80FWtF9!3F19024Z20_09032H#o9X10X780418FFG80c!	fakQB@L}DBPRYWZV]WVZLtXJX@JjBBJkHap`@	LEXAPRO	-3.3305	none	none	none	none	
+	zrUtzdOSxJCR1F3UDB8F3NPP2!2934902dV50X0G!X#X$V!B80V1W5W0103V!N40101$10V0F0	fhqQ@@DT@drlsLjXKUAQEP@@@	LIDODERM	6.0164	high	none	high	high	
+	~:jjgTyvQCjjfSxjogvnheE2zGNirpV66dqQI8nZX_icZrnKfDG49dk!K3FV1V1L894a0I0	eohTJ@@DF@O@bjlbbbbbRRTTubJRfRDL\rn^Zj`jAjFj`@`@@@	LOTREL	-5.4701	none	none	none	none	
+	zrzxzxUzrpzxzQvQEzCrQfuCiE6RE_PS7yt2DjPbPQXzbkuXq5o9IdDRBwFdZHwi_e4CZ0mJ7519OIF0c2#F	fmoYb@B\\GLuFRBHrJIKJJJYIJHsIZcMVbT\x@Jfh`Xjj@hRH@@	LUNESTA	3.3902	none	none	none	none	
+	;xzhtKSF5w1KAESN0G2N@u4CF1dY9882UXC8V01QV86FWW0XGVS25J8F_X3EW0d11AXZc6B080F3FL08603V	enSRD@@@jgo`DLbfbbTVVrTTTRrbQfTRrDtl\rjFVAaiYZB@@BjA`bij`@H@@@	MICARDIS	0.95437	none	none	none	none	
+	tf6@cQaV6Cs28wV!2H85V50F04WV4!k80K0F!V4$4G#2%22%2$F18)21!V0	dk~@@@RZUZYaz^vjjjjh@@	NAMENDA	-0.80275	none	none	none	none	
+	xvyjgjq6bEu6955V27q892J0G0VXV8!290OFJ40F#F4!8)12&4#H08&2V2160Y0	dcND@EADfveV]Zjjj@@	NEURONTIN	-5.2429	none	none	none	none	
+	zpzlIVOK1k4R!2DTN0W2N2u!F091B246IV58X82GV8691V0X5Vh2GJ9FV19EW0V1122V048087020K1FV0Fk	fakqb@BTeCIPAFRSQIJIIQIHiK`gICEij`@HBj`H@h@@	NEXIUM	-1.8775	none	none	none	none	
+	=jUTzqSdUABvj1Novc816g@Z40Vg4680B3BJ!PX0V0X2440F&J01!JkI0Z02!1V0V8G8&	fnc``@C@PdrrsJjsz{HRmUPA@EAP@@@	PAXIL	8.2657	none	none	none	high	
+	>U:rzxzUSzhzCqftPCiiuLBnq9zMS259BQNPGDgmDVXaj8ecVpoV0L5IF9GY7dp8L010VFV0N09$V	fj}`a@AFlBHrDYEEDeCEDlhTsghyK@PUSUMITJD@@	PLAVIX	2.6245	none	none	none	none	
+	:xjxyyirjy:fxsjjxiUjpCzvxyPwFpMkF0uzSmRgOwSZPT7J@9Fl0FH10B4kHj4k04180F4010s0A0806030	fgAp@@HbvY{yEDhhmEhheeULieCN|ejjjjZfjjijQq^`@	PRAVACHOL	3.1264	none	none	none	none	
+	zywvgeuKjcwu98AaKOQcc9rnMS8XCb92FT2GBs0@jOO_0SAgFR0_JJHBW1808NXF2N89@G02VX861N0F0R3010	fa{AR@HHpSh@cIIChdididiheIUgQRUju@AUUUTeP@@	PREMARIN	-0.071876	none	none	high	none	
+	zrzxIkOr1k4R422DDN2W2O2s!F0914046GZ58X80FVN691VBX5Xd40J8FV117W0V1122!4N!302!14V8Fk	fi{p``BTeCH@alavPGHYIMDdhdeDdfeIpSdabtuP@DAUTA@E@@	PREVACID	-8.6384	none	none	none	none	
+	zrzlIkOp1k4RV03DTN0W2N2u!F091B24LIV50Xc2FV96OGV0X5Vd2GJ8FV19El0V9122V0J80@A0H441FV8Fk	fegpS@BTeAqZ`BArDyCIIhdeDdhddlUipWdabtuP@PAUU@PAP@	PROTONIX	-4.4787	none	none	none	none	
+	:UvJvFJd!wVFN25J0VV92ZZB0F%2W0B!80FF!90V01V0FV!4V#1$K0V#1!2!F!1!V0	fle`b@CPt@HrRZIQQQIHytPiZj@F@@B@J@@	PROVIGIL	-0.62682	none	none	none	none	
+	zyUty1OK9Fh83J2jB80kVO8H#19308RLgV58V110G3!1V024V0Z04V!21JW#20F084!4$41BV0F0	fleQ@@DFAdTRRRaRbRQJBduPAUUT@@@	REQUIP	4.0982	none	none	none	none	
+	;vzfzSzxxzQRAzUSNtftevrQPYgYCADQzXEA058AzjaG2_FjtWs2MqlTReE3mAW522n84J0A04J2B8o0180V	egdRDH@AOFnfJ`ICHhdieeDedeEEMBeQpIHyyuL]]@DUUUUKUUPs@@@	RISPERDAL	5.2816	none	none	none	none	
+	;UvUUvUma1pym@m14kqhV4VV!50tHg502!2021FF02!416F05NV808F#F08(V202FV1!X0G0	flya`@M@EGIEDdhbdeD^JhHJJjjHTH@@	SELOKEN	6.6921	none	none	none	none	
+	;UnUrvQnFnMDc6FOVkkR4HZa4FZ@daB5201#1WF8FX1!A404!2!CF0@2!V40H02@4V401FV240X0G0	fg`P@@`J^zTjjkJk{\k[zLuuUUPPQU@ATDLt@@	SEREVENT	-8.9753	none	none	none	none	
+	vzUfvvzgrSwEvolN@j8uEd4hm1GAc!1zHF2180BF0FkZ1JY0Xc0@!o2k405G2801!G8FR08!82#1V0kV	dg@`LIPBLdTTJRrVTLtsUUUPM@@	SIFROL	2.0874	none	none	none	none	
+	;j;ir=xtjjzyUjxCyv:uwoxzfJUtvStgiSsxX6vzZXUPtc_26LJM1BcLpV0l158J8kkm4W0X02F1V	feo`QDBltZX@bPPV\dTVdLTRqbRbTVJV]dmVmgSMTmUUUUST@@	SPIRIVA	4.8619	none	none	none	none	quart. ammonium; oxiran/aziridine
+	=yxzjw6wb3vTTwUZmSHTD40k3Y@55LYp77eXnOmS1kOXC252102BhVYV1MlY4@_C6YHaJ49B0N4212VsF0	fj}```ARbBH]H^d@rFQQISJQYRINTYHvRp@UU]STUCe@@	SUSTIVA	-20.73	none	high	none	none	
+	zpzK30OG9k40402DH8!2N0H$91020H2V50X01!1#V021k!F68FV18JV#F$J!2142440FVVFF	fkpP@CIrAdhiSKJjj{_rmbtEL}tEAPTDU@DX@@@	TARCEVA	-5.9718	none	none	none	none	
+	zrUdUtOaWJ7w0Ht9EB0VF9Qc08FJ8V404Ht0A41!8ZN4W0V6Hs0NV0K0k0clFF1WW0VW!K$F2#W10VV	dg}d@DpaVpMIfYwyaeVjiVZ`@	TEMODAR	-1.8034	high	high	high	none	
+	:UvzvzyzS:vytzEx9QQfP9b9AUgn49eAx@@EFaNHbuiJiYL5H0lg4p4cJXX38@d4@kV0l0190FFV80FBV0F0	fluPP@DTAsUlbbTTTlTvRXHshiZjZfX@`a``@	THALOMID	4.3067	none	none	high	none	
+	;jtyyirjy7zeoNXbbDUb_Zum_8HRFoIc0CkWGRZZ9kO90Hh02L2G802VH!V4820V#1VkF0X$2110V0	ffc`J@BPQc`cQR@HrRPyRIJISHzZMYr\kUUUUUUU@@@	TOPAMAX	-2.4806	none	none	none	none	alkyl sulfonate/sulfate type
+	:vr20NG8V4k402BHNH1VN2k04!91920HFk50282Fk909WV021k52KL1Fc012kFV8F02K0Jc0@35@4F10Y0GF	enUZFH@LA@jfhDKLofP@cIIBhhdeEhdmEDiDeDkemOG@glXZUj@@HBj@JhHHb@@@@	TRACLEER	-0.35379	none	none	none	none	
+	:xzxyNzUX6w_3zezVH5mBmB8d8R10En02FKB4Dk21o!F!A!Hl3H1B08_#k8PF0830VFV20V411&	fik@R@A^KTDQdTRVTtRVRdTjeFV]@AL@EUMT@@@	TRICOR	-2.3394	none	none	none	none	
+	zTPn62dM8N5V!@_180WVN#40413#LsV50V!8k16V0V0@G0104JV0V81JY081F8c0X402#1J01W!V0	fluP`@NQ@EIfVVWV~Je[rV`h@`FH@@@	TRILEPTAL	2.0474	none	none	high	none	
+	zj_DNT0X0Z@0ZXk!V34G61#102F%4$4#1#9!20F$2(V%F+8!	dctHxJBPRPrPFPfPVPvPrJPqJQUUUT@@	ULTANE	-12.68	high	none	high	none	
+	?y>xvjbhTzfvCjfjUowoxvWh@@aUnNXzLV669mOHCmhXW6c4rk0DgG0@kF!13NVkVV2880a0I0	fmgQP@BZ@bPXyEMEDiXmEEdeLepTumUTuUMU@A@@@	VASOTEC	0.77856	none	none	none	none	
+	;UAUtn9T7k0axUnNIVXSlmaJ0kendF47LKY4220CkNBnFiBQK35Z1BWLAWF222F_4SV320K74C1PVWF4381k	fi{iC@BL}gj`R@Y@\adTTRTLabTRfrSNIjwlAAUPTEBpP@@	VFEND	4.0837	none	none	none	none	
+	=vzxzwCzxovUUx8v7Ouui9IQhYBPBQnX380gIQoQ6OlY0YOWhXLr9JocWQHHWC0XX4WMd1@6J24FZ0W0FV	ehRVBH@LKHdmchDLn`@cIICEDdeieEdeDlimeKCOJamcej`hJIjijfja`@@	VIAGRA	5.9489	none	none	none	none	
+	zNup649K8H#16Z080VVN0H%32!L0V50Z#F1#V021$4V#14W!2F#84&4010a0I0	fle`a@BQRBHEDYEEDeMCDdXrSoPPT@PS@@@	VOLTAREN	-0.71474	none	none	high	none	
+	zyUvTvlldN0kVJ9X1VHlV93L2F8G!20g5GL$10F!FG80N4#4s4%20820V840V02488%V0F0	f`aaB@EBADYEDeMCEiJ\`BFjjHRH@@	WELLBUTRIN	3.3755	none	none	none	none	
+	[rv;yyjShcRTT2QhjES_cZa8lbXd2FF0V41V611I3FZm0kYBN4F808!480F!4!VV47V20GV0kF	fcohP@DZ]yHJCgdTRbRQTTrTVRRREJNV}Zjjj`B@Bj`a``@	XATRAL	4.228	none	none	none	none	
+	;j;ir=xOjjhiMjvhynrEuwZoMnx8n79qRibNhYNvKmuS8OVJ2y0eMlFCp_0JW!J28GVP2c!XX8G0	fikpr@BTXkQkQjBPrJJIIIQPiQKHig@iiZjVjjjjh@@	XELODA	-21.328	high	none	low	low	
+	]Q:tTzfUpxuXjy9rSDzbgOPgYh2gpmX2ItVloTp6BF1Kg@gBACY25eB1wC5ZV0B5a1F11Fl!2810	eghXLD@NEJn`IBzPRYWYgYU^^uzFIMDbmch@JfhHHj@BH@@@	ZETIA	0.9371	none	none	none	none	
+	:xjxyyirjyjzfxsjjziUjpCzvxiPwFpMsFGuzSmwgOoSZPTjJe9Fl0FH1FB4k6Y6k041OGFF010c0A0802010	eg`PJ@@@DALalbbRbvTTTTTjradUCGdQUSUUUUUMUMUSHZPr@@	ZOCOR	0.66833	none	none	none	none	
+	:UvzfzUzOzjOTQjECRvuQCdzRuYhbF8TnReCRk48@G5aZ2hZvv0@Z6osmZ@MKY50p9@c8VR2AF!3JVO4#V	ffsq@@EFrCHhhhhidehcDsPeNSfkTtEPUCMECE@@	ZOFRAN	4.3913	none	none	none	none	
+	vzUQfQltE80mWJs6FsF8VNaHi40tVYAFVH2058!1OF9!510901!18Z0801PH!2J9V$8!18F218V0F0	fbm`A@D`bBQFQQQYZJIQYEgK^CFB@jBHJH@@	ZOLOFT	0.25233	none	none	none	none	
+	zrzhAxOaWJEoVXtO3g3V2AnVa01J@kVF42N530G2JB1FCfFXBHH30s044o!F082GW04V10ZF50202$341V	f`aQq@MN`cCARTCpixYIIYEIkDg^Zjfje`@@	ZOMETA	-6.8035	none	none	none	none	
+	>MSzptpzOOIFM1Fd8e4g62H44fcXe924!30IF20F4!10F682044NFV#G2L0V#2FVF14FFX06030	fmwQb@AI[MXHaIe]fYU_uVhsrXy`@jhJBJjXbGB@@	ZYRTEC	4.3857	none	none	none	none	
+	>Uzrpzh:vUUjBqLzOUiBYDCWshEEiXE7vZPC3FVX1X7IMZH41g98kIFCWqJc19ZVH4!V_1GkEV2V8F0	fakpR@BJKxLV`dLbbbTRRtVbjRcIF}ELDEEUSUSEPRP@	ZYVOX	-2.1658	none	none	none	none	
+<datawarrior properties>
+<colorBackground__TableIrritant_0="-65536">
+<colorBackground__TableIrritant_1="-256">
+<colorBackground__TableIrritant_2="-16711936">
+<colorBackground__TableMutagenic_0="-65536">
+<colorBackground__TableMutagenic_1="-256">
+<colorBackground__TableMutagenic_2="-16711936">
+<colorBackground__TableReproductive Effective_0="-65536">
+<colorBackground__TableReproductive Effective_1="-256">
+<colorBackground__TableReproductive Effective_2="-16711936">
+<colorBackground__TableTumorigenic_0="-65536">
+<colorBackground__TableTumorigenic_1="-256">
+<colorColumnBackground__TableIrritant="Irritant">
+<colorColumnBackground__TableMutagenic="Mutagenic">
+<colorColumnBackground__TableReproductive Effective="Reproductive Effective">
+<colorColumnBackground__TableTumorigenic="Tumorigenic">
+<colorCountBackground__TableIrritant="3">
+<colorCountBackground__TableMutagenic="3">
+<colorCountBackground__TableReproductive Effective="3">
+<colorCountBackground__TableTumorigenic="2">
+<colorListModeBackground__TableIrritant="Categories">
+<colorListModeBackground__TableMutagenic="Categories">
+<colorListModeBackground__TableReproductive Effective="Categories">
+<colorListModeBackground__TableTumorigenic="Categories">
+<columnFilter_Table="">
+<columnWidth_Table_Druglikeness="93">
+<columnWidth_Table_Irritant="80">
+<columnWidth_Table_Molecule Name="107">
+<columnWidth_Table_Mutagenic="80">
+<columnWidth_Table_Nasty Functions="139">
+<columnWidth_Table_Reproductive Effective="151">
+<columnWidth_Table_Structure="100">
+<columnWidth_Table_Tumorigenic="88">
+<detailView="height[Data]=0.5;height[Structure]=0.5">
+<filter0="#browser#	#disabled#	Structure	dcMD@DTIrJJIPqTsUUMTEP@">
+<filter1="#structure#	Structure">
+<filter2="#string#	Molecule Name">
+<filter3="#double#	Druglikeness">
+<filter4="#category#	Mutagenic">
+<filter5="#category#	Tumorigenic">
+<filter6="#category#	Reproductive Effective">
+<filter7="#category#	Irritant">
+<filter8="#category#	Nasty Functions">
+<filterAnimation0="state=stopped delay=500">
+<mainSplitting="0.86166">
+<mainView="Table">
+<mainViewCount="2">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	right	0.847">
+<mainViewName0="Table">
+<mainViewName1="Structures">
+<mainViewType0="tableView">
+<mainViewType1="structureView">
+<rightSplitting="0.64205">
+<rowHeight_Table="80">
+<structureGridColumn_Structures="Structure">
+<structureGridColumns_Structures="6">
+</datawarrior properties>
